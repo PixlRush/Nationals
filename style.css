@@ -62,7 +62,7 @@ td,th{
 	background-color: #9DACBB;
 	font-size: 24pt;
 }
-#tourrecord{
+#tourrecord,#deck{
 	padding: 5pt;
 	max-width: 790px;
 	margin: auto;
