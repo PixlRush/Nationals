@@ -1,0 +1,71 @@
+
+body{
+	background-color: #ADC2D6;
+	font-family: "Tahoma";
+	margin: 0;
+}
+pre{
+	border-radius: 2px;
+	margin: 0px 8px;
+	padding: 2px 4px;
+	background-color: #9DACBB;
+}
+p{padding: 0px 8px;}
+h3{
+	margin-top: 6px;
+	border-bottom: 5px solid #2D3A74;
+	padding-left: 20px;
+	background-color: #171C3E;
+	color: #EBF1F5;
+	font-family: "Trebuchet MS";
+	margin: 16px 0px;
+}
+/*HEADER*/
+	header{
+		background-color: #171C3E;
+		border-bottom: 8px solid #2D3A74;
+		color: #EBF1F5;
+		padding: 10px 5% 10px 10px;
+		font-family: "Trebuchet MS";
+		text-align: center;
+	}
+	#name, #surname{margin: 5pt 0pt; text-align: center;}
+	#name{font-size: 40pt}
+	#surname{font-size: 20pt; font-weight: 200;}
+	#title{
+		display: inline-block;
+		text-align: left;
+		vertical-align: top;
+	}
+#record{
+	text-align: center;
+}
+#tournament{
+	max-width: 800px;
+	margin: auto;
+	background-color: #BDD2E6; 
+}
+table{
+	margin: auto;
+}
+tr{
+	margin-bottom: 10px;
+}
+td,th{
+	text-align: center;
+	border-bottom: #FFFFFF 3px
+}
+#tourname{
+	padding: 5pt;
+	max-width: 790px;
+	margin: auto;
+	background-color: #9DACBB;
+	font-size: 24pt;
+}
+#tourrecord{
+	padding: 5pt;
+	max-width: 790px;
+	margin: auto;
+	background-color: #9DACBB;
+	text-align: center;
+}
