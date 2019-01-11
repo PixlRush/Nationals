@@ -1,4 +1,3 @@
-
 body{
 	background-color: #ADC2D6;
 	font-family: "Tahoma";
@@ -59,6 +58,7 @@ td,th{
 	padding: 5pt;
 	max-width: 790px;
 	margin: auto;
+	margin-top: 12px;
 	background-color: #9DACBB;
 	font-size: 24pt;
 }
@@ -76,4 +76,23 @@ td,th{
 	margin: auto;
 	background-color: #9DACBB;
 	text-align: center;
+}
+
+/*EVENT*/
+#event{
+	margin: auto;
+	margin-top: 12px;
+	border-top: 5px solid #FAFAFA;
+	background-color: #416C9B;
+	padding: 5pt;
+	width: 50%;
+	max-width: 790px;
+	color: #FFFFFF;
+}
+#event>#title{
+	font-size: 16pt;
+	font-style: bold;
+}
+#event>#record{
+	text-align: right;
 }
