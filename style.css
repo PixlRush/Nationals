@@ -79,7 +79,7 @@ td,th{
 }
 
 /*EVENT*/
-#event{
+a>#event{
 	margin: auto;
 	margin-top: 12px;
 	border-top: 5px solid #FAFAFA;
@@ -89,10 +89,10 @@ td,th{
 	max-width: 790px;
 	color: #FFFFFF;
 }
-#event>#title{
+a>#event>#title{
 	font-size: 16pt;
 	font-style: bold;
 }
-#event>#record{
+a>#event>#record{
 	text-align: right;
 }
